@@ -51,6 +51,8 @@ p
     width = 12%;
 }
 
+
+
 /******* nav bar styling **************/
 .nav {
     background-color: #000;
@@ -196,7 +198,10 @@ figure {
 figcaption {
     font-family: TheinhardtReg;
     padding-top: 15px;
+    color:black;
 }
+
+
 
 .home {
     float: left;
